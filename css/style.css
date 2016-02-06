@@ -1,0 +1,17 @@
+
+#jumbo1{
+  color:white;
+  padding: 10px;
+  height:500px;
+  background-image:url(https://www1.toronto.ca/City%20Of%20Toronto/Municipal%20Licensing%20&%20Standards/1-Images/Standard/limo.jpg);
+  background-size:cover;
+}
+#booking-form .form-group{
+  padding: 5px; 
+}
+.selectfld1, .selectfld2{
+  width:100px;
+}
+.formAside{
+  font-size: 16px;
+}
